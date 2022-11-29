@@ -1,6 +1,6 @@
 # SonDikdortgenBukulmuslereKarsi
 
-Oyun topun kendiliğinden harekete geçmesi ile başlıyor.Amacımız ilk skoru yapmak.
+Oyun topun kendiliğinden harekete geçmesi ile başlıyor.Amacımız karşıdaki beyaz noktaya ulaşarak ilk skoru yapmak.
 
 ![Oyun1](https://user-images.githubusercontent.com/47645405/204467904-3be6a109-20dc-44ff-b0a6-97a70eb34f61.png)
 ![OyunKayıp](https://user-images.githubusercontent.com/47645405/204467926-e22324b5-e205-4cca-8fcd-163922663cd7.png)
