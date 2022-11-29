@@ -9,7 +9,7 @@ Oyun topun kendiliğinden harekete geçmesi ile başlıyor.Amacımız ilk skoru 
 
 Kendi kalemizi yukarı ve aşağı tuşlarıyla savunabiliyoruz.
 
-Oyunun tamamını kendim geliştirdim.
+Oyunu tek başıma yaptım.
 
 
 
